@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Shoor1k/goit-react-hw-01-components/static/css/main.31b0eb4e.chunk.css",
+    "main.js": "/Shoor1k/goit-react-hw-01-components/static/js/main.cdaa4c82.chunk.js",
+    "main.js.map": "/Shoor1k/goit-react-hw-01-components/static/js/main.cdaa4c82.chunk.js.map",
+    "runtime-main.js": "/Shoor1k/goit-react-hw-01-components/static/js/runtime-main.30a9d213.js",
+    "runtime-main.js.map": "/Shoor1k/goit-react-hw-01-components/static/js/runtime-main.30a9d213.js.map",
+    "static/js/2.a345e238.chunk.js": "/Shoor1k/goit-react-hw-01-components/static/js/2.a345e238.chunk.js",
+    "static/js/2.a345e238.chunk.js.map": "/Shoor1k/goit-react-hw-01-components/static/js/2.a345e238.chunk.js.map",
+    "index.html": "/Shoor1k/goit-react-hw-01-components/index.html",
+    "static/css/main.31b0eb4e.chunk.css.map": "/Shoor1k/goit-react-hw-01-components/static/css/main.31b0eb4e.chunk.css.map",
+    "static/js/2.a345e238.chunk.js.LICENSE.txt": "/Shoor1k/goit-react-hw-01-components/static/js/2.a345e238.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30a9d213.js",
+    "static/js/2.a345e238.chunk.js",
+    "static/css/main.31b0eb4e.chunk.css",
+    "static/js/main.cdaa4c82.chunk.js"
+  ]
+}
