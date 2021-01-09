@@ -19,7 +19,7 @@
     "type": "git",
     "url": "https://github.com/Shoor1k/goit-react-hw-01-components.git"
   },
-  "homepage": "https://github.com/Shoor1k/goit-react-hw-01-components/",
+  "homepage": "https://Shoor1k.github.io/goit-react-hw-01-components/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
